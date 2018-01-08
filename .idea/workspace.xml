@@ -19,11 +19,11 @@
     <bookmark url="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/BillingHomeDeliveryActivity.java" line="6777" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b3634b2-61eb-4eec-9c17-c4e6f231d0c0" name="Default" comment="1. GSTR2 not taking supplier name for unregistere">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/User_Manual.pdf" afterPath="$PROJECT_DIR$/app/src/main/assets/User_Manual.pdf" />
+    <list default="true" id="2b3634b2-61eb-4eec-9c17-c4e6f231d0c0" name="Default" comment="1. updated user manual&#10;2. column name change in customer module&#10;3. change in version no to 2.0P">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/Quick_Start_Guide.pdf" afterPath="$PROJECT_DIR$/app/src/main/assets/Quick_Start_Guide.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_customerdetail.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_customerdetail.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="wepfnb_datamini.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,7 +66,7 @@
       <file leaf-file-name="DatabaseHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wepbase/src/main/java/com/wep/common/app/Database/DatabaseHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4488">
+            <state relative-caret-position="204">
               <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
             </state>
@@ -93,11 +93,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FragmentSettingsMachine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FragmentSettingsMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/fragments/FragmentSettingsMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="222" column="31" selection-start-line="222" selection-start-column="31" selection-end-line="222" selection-end-column="31" />
+            <state relative-caret-position="3213">
+              <caret line="222" column="29" selection-start-line="222" selection-start-column="29" selection-end-line="222" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gstAPI/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="R.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/com/wepindia/pos/R.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112285">
+              <caret line="6610" column="32" selection-start-line="6610" selection-start-column="32" selection-end-line="6610" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_owner_details.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_owner_details.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -106,38 +139,8 @@
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="182" column="56" selection-start-line="182" selection-start-column="56" selection-end-line="182" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fragment_GSTR2_B2B_Amend.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/GST/fragments/Fragment_GSTR2_B2B_Amend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="450" column="49" selection-start-line="450" selection-start-column="49" selection-end-line="450" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidationForAmendFields.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/GST/fragments/ValidationForAmendFields.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="210" column="31" selection-start-line="210" selection-start-column="31" selection-end-line="210" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerDetailActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/CustomerDetailActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="119" column="48" selection-start-line="119" selection-start-column="48" selection-end-line="119" selection-end-column="48" />
+            <state relative-caret-position="34">
+              <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -145,21 +148,21 @@
       </file>
       <file leaf-file-name="activity_customerdetail.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_customerdetail.xml">
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
+            <state relative-caret-position="5746">
               <caret line="338" column="53" selection-start-line="338" selection-start-column="53" selection-end-line="338" selection-end-column="53" />
               <folding />
             </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_customerdetail.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_customerdetail.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="5644">
               <caret line="332" column="0" selection-start-line="332" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
               <folding />
             </state>
@@ -6494,7 +6497,6 @@
         <option value="$PROJECT_DIR$/wepbase/src/main/java/com/wep/common/app/Database/BillDetail.java" />
         <option value="$PROJECT_DIR$/wepbase/src/main/java/com/wep/common/app/print/PrintKotBillItem.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tender_dinein.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/OwnerDetailsActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_fragment_settings_display_owner_detail.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/SupplierDetailsActivity.java" />
@@ -6502,7 +6504,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_goods_inward_note.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_purchase_order.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/fragments/FragmentSettingsDisplayOwnerDetail.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_owner_details.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/ItemManagementActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/InwardItemActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_stock.xml" />
@@ -6534,6 +6535,8 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_customerdetail.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/fragments/FragmentSettingsMachine.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_owner_details.xml" />
       </list>
     </option>
   </component>
@@ -6568,295 +6571,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fragments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outputs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GST-Genie-V1.2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="outputs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="apk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -6881,6 +6595,31 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GST-Genie-V1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GST-Genie-V1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GST-Genie-V1.2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -6898,7 +6637,7 @@
     <property name="android.project.structure.last.selected" value="upgradeModule" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-hdpi" />
-    <property name="SearchEverywhereHistoryKey" value="string.xml&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/res/values/strings.xml&#10;dat&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/wepbase/src/main/java/com/wep/common/app/Database/DatabaseHandler.java&#10;app&#9;PSI&#9;JAVA://com.mswipetech.wisepad.sdktest.data.AppPrefrences&#10;config&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/gstAPI/src/main/java/com/wep/gstcall/api/util/Config.java&#10;Pa&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/java/com/wepindia/pos/PayBillActivity.java&#10;databaseHa&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/wepbase/src/main/java/com/wep/common/app/Database/DatabaseHandler.java&#10;paybill&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/java/com/wepindia/pos/PayBillActivity.java&#10;BillDetail&#9;PSI&#9;JAVA://com.wep.common.app.Database.BillDetail&#10;printerUtil.ja&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/printers/src/main/java/com/wepindia/printers/utils/PrinterUtil.java&#10;test_&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/res/layout/test_fragment__gstr2__b2_b__amend.xml&#10;App&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/mSwipe/src/main/java/com/mswipetech/wisepad/sdktest/data/AppPrefrences.java&#10;ctivity_payment&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/EasyBill-V2.8/mSwipe/src/main/res/layout/activity_payment_mswipe.xml&#10;AppP&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/EasyBill-V2.8/mSwipe/src/main/java/com/mswipetech/wisepad/sdktest/data/AppPrefrences.java&#10;appp&#9;PSI&#9;JAVA://com.mswipetech.wisepad.sdktest.data.AppPrefrences&#10;preference&#9;PSI&#9;JAVA://com.mswipetech.wisepad.sdktest.view.ApplicationData#appSharedPreferences&#10;ItemIn&#9;PSI&#9;JAVA://com.wep.common.app.models.ItemInward&#10;SplitBil&#9;PSI&#9;JAVA://com.wepindia.pos.SplitBillActivity&#10;PrintKot&#9;PSI&#9;JAVA://com.wep.common.app.print.PrintKotBillItem&#10;KOTStatus&#9;PSI&#9;JAVA://com.wepindia.pos.KOTStatusActivity&#10;master&#9;PSI&#9;JAVA://com.wepindia.pos.MasterActivity&#10;Data&#9;PSI&#9;JAVA://com.wep.common.app.Database.DatabaseHandler&#10;D&#9;FILE&#9;file://E:/20sep/wepfnb_gst/wepbase/src/main/java/com/wep/common/app/Database/DatabaseHandler.java&#10;BillSetti&#9;PSI&#9;JAVA://com.wep.common.app.Database.BillSetting&#10;apputil&#9;PSI&#9;JAVA://com.wep.common.app.utils.AppUtils" />
+    <property name="SearchEverywhereHistoryKey" value="activity_owner&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/res/layout/activity_owner_details.xml&#10;style&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/gstAPI/src/main/res/values/styles.xml&#10;string.xml&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/res/values/strings.xml&#10;dat&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/wepbase/src/main/java/com/wep/common/app/Database/DatabaseHandler.java&#10;app&#9;PSI&#9;JAVA://com.mswipetech.wisepad.sdktest.data.AppPrefrences&#10;config&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/gstAPI/src/main/java/com/wep/gstcall/api/util/Config.java&#10;Pa&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/java/com/wepindia/pos/PayBillActivity.java&#10;databaseHa&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/wepbase/src/main/java/com/wep/common/app/Database/DatabaseHandler.java&#10;paybill&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/java/com/wepindia/pos/PayBillActivity.java&#10;BillDetail&#9;PSI&#9;JAVA://com.wep.common.app.Database.BillDetail&#10;printerUtil.ja&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/printers/src/main/java/com/wepindia/printers/utils/PrinterUtil.java&#10;test_&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/app/src/main/res/layout/test_fragment__gstr2__b2_b__amend.xml&#10;App&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/GithubCode/GST-Genie-V1.2/mSwipe/src/main/java/com/mswipetech/wisepad/sdktest/data/AppPrefrences.java&#10;ctivity_payment&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/EasyBill-V2.8/mSwipe/src/main/res/layout/activity_payment_mswipe.xml&#10;AppP&#9;FILE&#9;file://E:/FnbProjects/ReleaseGSTGinne/EasyBill-V2.8/mSwipe/src/main/java/com/mswipetech/wisepad/sdktest/data/AppPrefrences.java&#10;appp&#9;PSI&#9;JAVA://com.mswipetech.wisepad.sdktest.data.AppPrefrences&#10;preference&#9;PSI&#9;JAVA://com.mswipetech.wisepad.sdktest.view.ApplicationData#appSharedPreferences&#10;ItemIn&#9;PSI&#9;JAVA://com.wep.common.app.models.ItemInward&#10;SplitBil&#9;PSI&#9;JAVA://com.wepindia.pos.SplitBillActivity&#10;PrintKot&#9;PSI&#9;JAVA://com.wep.common.app.print.PrintKotBillItem&#10;KOTStatus&#9;PSI&#9;JAVA://com.wepindia.pos.KOTStatusActivity&#10;master&#9;PSI&#9;JAVA://com.wepindia.pos.MasterActivity&#10;Data&#9;PSI&#9;JAVA://com.wep.common.app.Database.DatabaseHandler&#10;D&#9;FILE&#9;file://E:/20sep/wepfnb_gst/wepbase/src/main/java/com/wep/common/app/Database/DatabaseHandler.java&#10;BillSetti&#9;PSI&#9;JAVA://com.wep.common.app.Database.BillSetting&#10;apputil&#9;PSI&#9;JAVA://com.wep.common.app.utils.AppUtils" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -7373,13 +7112,6 @@
       <option name="presentableId" value="Default" />
       <updated>1490860409349</updated>
     </task>
-    <task id="LOCAL-00148" summary="Removing GSTR data download API from Application. Now User can directly goto the ASP portal and download the data from GSP Portal">
-      <created>1507638105059</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1507638105059</updated>
-    </task>
     <task id="LOCAL-00149" summary="1. Ingredient not available when csv upload took place for inward items&#10;2. Delete all items for inward items now available&#10;3. New Module Price &amp; Stock introduced for inward Items">
       <created>1508159148292</created>
       <option name="number" value="00149" />
@@ -7716,7 +7448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514386760060</updated>
     </task>
-    <option name="localTasksCounter" value="197" />
+    <task id="LOCAL-00197" summary="1. updated user manual&#10;2. column name change in customer module&#10;3. change in version no to 2.0P">
+      <created>1514448373700</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1514448373718</updated>
+    </task>
+    <option name="localTasksCounter" value="198" />
     <servers />
   </component>
   <component name="TodoView">
@@ -7729,8 +7468,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2542662" sideWeight="0.47862595" order="2" side_tool="false" content_ui="tabs" />
@@ -7746,7 +7485,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32423207" sideWeight="0.51221377" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3524962" sideWeight="0.49317408" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30181542" sideWeight="0.49317408" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24885496" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -7800,7 +7539,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bug 657 - Item details are refreshed and set to 'zero' on adding 'New Stock' against an existing item and tapping 'Update' in ' Inward Price and Stock' via 'Inward Management'&#10;Bug 604 - Prediction drop-down appears as soon as user taps/selects on any of the items in 'Price and Stock' via 'Masters'&#10;Bug 549 - Item details are refreshed and set to 'zero' on adding 'New Stock' against an existing item and tapping 'Update' via 'Price and Stock'&#10;" />
     <MESSAGE value="Bug 577 - Search mobile number in table booking field should restricted to 10 digits.&#10;Bug 150 - Overlap in Tablebooking" />
     <MESSAGE value="Bug 579 - Incorrect message pops up while user searches for table in 'KOT Status' page via 'Dine In'" />
     <MESSAGE value="Bug 587 - 'Supplier Type' field is truncated in 'Amendments' via Home Page" />
@@ -7825,7 +7563,8 @@
     <MESSAGE value="Bug 703 - Original Bill and Duplicate bill having a difference with the Description name." />
     <MESSAGE value="payBillActivity.java - removing toast after Mswipe&#10;added updated user manual, which now contains all payment flow end to end - bug reported&#10;Reports - message displyed that loading reports may take some time - Bug reported" />
     <MESSAGE value="1. GSTR2 not taking supplier name for unregistere" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. GSTR2 not taking supplier name for unregistere" />
+    <MESSAGE value="1. updated user manual&#10;2. column name change in customer module&#10;3. change in version no to 2.0P" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. updated user manual&#10;2. column name change in customer module&#10;3. change in version no to 2.0P" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -8185,33 +7924,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/AddRolesActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/UserManagementActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="54" column="48" selection-start-line="54" selection-start-column="48" selection-end-line="54" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_user_management.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="59" column="62" selection-start-line="59" selection-start-column="62" selection-end-line="59" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/InwardStockActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="439">
@@ -8249,7 +7961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8265,7 +7976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="372" column="66" selection-start-line="372" selection-start-column="66" selection-end-line="372" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -8276,7 +7986,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1429">
           <caret line="99" column="47" selection-start-line="99" selection-start-column="47" selection-end-line="99" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -8287,7 +7996,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="173" column="54" selection-start-line="173" selection-start-column="54" selection-end-line="173" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -8298,7 +8006,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="250" column="53" selection-start-line="250" selection-start-column="37" selection-end-line="250" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -8340,7 +8047,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8377,7 +8083,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-555">
           <caret line="44" column="23" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8407,7 +8112,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8415,17 +8119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5372">
           <caret line="380" column="0" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#22237#22238#0" expanded="false" />
-            <element signature="e#22270#22271#0" expanded="false" />
-            <element signature="e#23897#23898#0" expanded="false" />
-            <element signature="e#23930#23931#0" expanded="false" />
-            <element signature="e#48807#48808#0" expanded="false" />
-            <element signature="e#48887#48888#0" expanded="false" />
-            <element signature="e#50911#50912#0" expanded="false" />
-            <element signature="e#50983#50984#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -8433,7 +8126,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
@@ -8470,7 +8162,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="65">
           <caret line="213" column="39" selection-start-line="213" selection-start-column="30" selection-end-line="213" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8478,7 +8169,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="93" column="26" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8486,7 +8176,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="75" column="69" selection-start-line="75" selection-start-column="69" selection-end-line="75" selection-end-column="69" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8502,7 +8191,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
           <caret line="160" column="26" selection-start-line="160" selection-start-column="26" selection-end-line="160" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8518,7 +8206,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
           <caret line="1116" column="46" selection-start-line="1116" selection-start-column="46" selection-end-line="1116" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8550,7 +8237,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="47" column="31" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8558,7 +8244,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="17" column="57" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8566,7 +8251,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="450" column="49" selection-start-line="450" selection-start-column="49" selection-end-line="450" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8574,7 +8258,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="210" column="31" selection-start-line="210" selection-start-column="31" selection-end-line="210" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -8588,7 +8271,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wepbase/src/main/java/com/wep/common/app/Database/DatabaseHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4488">
+        <state relative-caret-position="204">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
         </state>
@@ -8602,17 +8285,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="182" column="56" selection-start-line="182" selection-start-column="56" selection-end-line="182" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_customerdetail.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
+        <state relative-caret-position="5746">
           <caret line="338" column="53" selection-start-line="338" selection-start-column="53" selection-end-line="338" selection-end-column="53" />
           <folding />
         </state>
@@ -8623,8 +8298,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_customerdetail.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="5644">
           <caret line="332" column="0" selection-start-line="332" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/fragments/FragmentSettingsMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3213">
+          <caret line="222" column="29" selection-start-line="222" selection-start-column="29" selection-end-line="222" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gstAPI/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/com/wepindia/pos/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112285">
+          <caret line="6610" column="32" selection-start-line="6610" selection-start-column="32" selection-end-line="6610" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -8637,12 +8336,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wepindia/pos/fragments/FragmentSettingsMachine.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="222" column="31" selection-start-line="222" selection-start-column="31" selection-end-line="222" selection-end-column="31" />
+        <state relative-caret-position="34">
+          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_owner_details.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>
